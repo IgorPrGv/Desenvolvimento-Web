@@ -1,0 +1,2 @@
+# HTML_CSS_GTi_PS-2023.2
+Desafio de HTML/CSS do PS da GTi 2023.2
